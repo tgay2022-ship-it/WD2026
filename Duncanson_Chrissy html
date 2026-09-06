@@ -2,18 +2,19 @@
 <html>
 <head>
 <title> Chrissy Duncanson  </title>
-<meta charset="UTF=8">
+<meta charset="UTF=8"> <!--Incorrect, it should read as the following-->
 
-<meta name="viewport" content="widith=device-width,inital-scale=1.0">
+<meta charset="UTF-8">
 
-
+<meta name="viewport" content="widith=device-width,inital-scale=1.0"> <!--Small spelling typo-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 </head>
 
-</html>
+</html> <!--Incorrect, HTML closes too early. it shouls come at the end -->
 
 <body>
-</div>
+
     <img src = "Logo.png" alt="Photo of Chrissy's Duncanson  
     orange , black , and white Logo " width="1485.25" height="1081.75">
 <img src = "Chrissy Headshot _.jpg" alt="Photo of brown skin girl with box braids and a red dress
@@ -34,64 +35,58 @@ with a bow on the right " width="496" height="774" >
     
     
    <p> <strong>She is a writer </strong> </p>
-<li>Plays</li>
-<li>Books</li>
-<li>Songs</li>
+<!--the list items are not in a list tag-->
+
+<ul> <!--correct tag to use, how your list items should be nested  -->
+    <li>Plays</li> 
+    <li>Books</li>
+    <li>Songs</li>
+</ul>
 
 <p>She is also a graphic designer, artist, singer, dancer, and actress.  While disability acceptance is a primary goal, she hopes to bring representation to other minority communities, teach critical thinking skills, foster empathy, and promote kindness. </p>
 
-   <p>While disability acceptance is a primary goal, she hopes to bring representation to other minority communities, teach critical thinking skills, foster empathy, and promote kindness. 
-    She was in Mattel’s FLIP: Future Leaders of Innovative Play program in 2024, has been a student at the Toy’s Fair Student Congress in 2025 and 2026, and had the opportunity to work with Crayola on a Disability Pride Month post in 2021. 
-</p> 
+   <p>While disability acceptance is a primary goal, she hopes to bring representation to other minority communities, teach critical thinking skills, foster empathy, and promote kindness. She was in Mattel’s FLIP: Future Leaders of Innovative Play program in 2024, has been a student at the Toy’s Fair Student Congress in 2025 and 2026, and had the opportunity to work with Crayola on a Disability Pride Month post in 2021. </p> 
 
-    <h1>About Me </h1>
+<h1>About Me </h1>
 <h2>Personal Info </h2>
 <h3> Age </h3>
-<P>
-23
-</P>
+    <p>23 </p>
 <h3> Major </h3>
+    <ul> <!--correct tag to use, how your list items should be nested  -->
+        <li> BFA <strong> Graphic Design </strong> </li>
+        <li> Minor in <strong> Acting for Camera</strong> </li>
+    </ul>
 
-<li> BFA <strong> Graphic Design </strong>  </li>
-<li> Minor in <strong> Acting for Camera</strong> </li>
 <h3> Hertiage </h3>
 <p> I am a part Turk and Caicos Islander </p>
-<h3> The Reason I am </h3>
-   <h3>Taking This Class</h3>
-<p> I am taking it because it is an requriement to be honest, and to be completly honest 
-    <p>I was not excited
-    for this class. To be completly honest I didn't want to take this class because I hate learning new skills especially on the computer
-    I expect myself to be perfect and when it turns out bad I get upset.  </p>
-</p>
+<h3> The Reason I am Taking This Class</h3>
 
-<h3> Skills </h3>
-<li> Adobe Photoshop</li>
-<li>Adobe Illustrator </li>
-<li> Procreate </li>
+<p> I am taking it because it is a requirement to be honest, and to be completely honest, I was not excited for this class. To be completely honest, I didn't want to take this class because I hate learning new skills especially on the computer I expect myself to be perfect and when it turns out bad I get upset.  </p>
+
+
+<h3> Skills </h3> 
+   <ul> <!--correct tag to use, how your list items should be nested  -->
+        <li> Adobe Photoshop</li>
+        <li>Adobe Illustrator </li>
+        <li> Procreate </li>
+    </ul>
 
 <h1> Passions </h1>
 
 <h2> Disability Adovacy</h2>
 
-<p> I been doing disability adovacy since I was 11 years old. The passion came from not being 
-    heard as a child. As someone with ADHD and Cerebral Palsy, I did not really feel heard. Not heard in education, law making, or societal aspects. I know it is the same for others in the
-    disabled community. I use my design skills to create artistics pieces related to disability issues. You can check them out at</p> 
+<p> I have been doing disability advocacy since I was 11 years old. The passion came from not being heard as a child. As someone with ADHD and Cerebral Palsy, I did not really feel heard. Not heard in education, law-making, or societal aspects. I know it is the same for others in the disabled community. I use my design skills to create artistic pieces related to disability issues. You can check them out at</p> 
+
 <a href="https://chrissysgallery.myportfolio.com">ChrissysGallery</a>
- <p> My goal is to help as many people possible especially children through education , adovacy , and support. I learned about the ramifications of what happens when disabled people 
-    are left behind so I want to do my part.
- </p>
+
+ <p> My goal is to help as many people possible especially children through education, adovacy, and support. I learned about the ramifications of what happens when disabled people are left behind so I want to do my part. </p>
  
-    </p>
 
 <h2> Children's Media</h2>
-<p> Children's are key to changing the world. I mean a perfect example is myself. Though sometimes it was tough , my experiences prepare me to abe the adovcate 
-    I am today. I want children to learn more about disabled people because when I looked back at my own experiences, it incorrect beliefs that led to my bullying. 
-I believe that the next generation ( with guidance ) can be wonderful and  well rounded human beings. My hope is that with my art
-that I am able to mold the next genration to help them be good people. I believe that media holds the key as I learned so much, and it is the first time a child sees who they can be a
-and the world around them.
+<p> Children are key to changing the world. I mean, a perfect example is myself. Though sometimes it was tough , my experiences prepared me to be the advocate I am today. I want children to learn more about disabled people because when I looked back at my own experiences, it incorrect beliefs that led to my bullying. I believe that the next generation ( with guidance ) can be wonderful and  well rounded human beings. My hope is that with my art that I am able to mold the next genration to help them be good people. I believe that media holds the key as I learned so much, and it is the first time a child sees who they can be a and the world around them.
 </p>
 
-<video  width="480" height="270" control> 
+<video  width="480" height="270" controls> 
     <source src="Intro .mp4" type="video/mp4"> </video>
 
 
@@ -99,3 +94,5 @@ and the world around them.
     <p> It is called a video element. It embeds a video into oyur site. The reason I used it was because I like doing multimedia art 
 </p>
 </body>
+
+</html> <!--Closes here-->
